@@ -58,8 +58,8 @@ module.exports = {
     credentials: false,
     // baseURL: "https://apid.thedbit.com",
     // browserBaseURL: "https://apid.thedbit.com",
-    baseURL: process.env.API_URL || 'http://172.30.10.50:39080',//开发环境
-    browserBaseURL: process.env.API_URL || 'http://172.30.10.50:39080',//开发环境
+    baseURL: process.env.API_URL || 'http://206.189.236.172:39080',//开发环境
+    browserBaseURL: process.env.API_URL || 'http://206.189.236.172:39080',//开发环境
     //  baseURL: 'http://172.30.10.50:39080',//开发环境
     // browserBaseURL:'http://172.30.10.50:39080',//开发环境
     // baseURL: 'http://172.30.30.186:9080',//newk
